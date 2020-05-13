@@ -1,0 +1,9 @@
+Ref: https://en.wikipedia.org/wiki/Basic_Color_Terms:_Their_Universality_and_Evolution
+
+* Stage I: Dark-cool and light-warm (this covers a larger set of colors than English "black" and "white".)
+* Stage II: Red
+* Stage III: Either green or yellow
+* Stage IV: Both green and yellow
+* Stage V: Blue
+* Stage VI: Brown
+* Stage VII: Purple, pink, orange, or gray
